@@ -1,0 +1,13 @@
+{
+  "name": "prueba-tecnica",
+  "version": "1.0.0",
+  "description": "Prueba técnica con Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "node nokia-cart-test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0",
+    "chromedriver": "^113.0.0"
+  }
+}
